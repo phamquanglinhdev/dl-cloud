@@ -1,0 +1,5 @@
+<IfModule mod_security.c>
+   SecFilterEngine Off
+   # and optionally this:
+   #SecFilterScanPOST Off
+</IfModule>
